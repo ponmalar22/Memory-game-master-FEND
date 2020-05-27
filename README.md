@@ -7,7 +7,7 @@ This is a game to test the player's memory. It has a deck of cards in which the 
 To match all the cards with less moves and gain 3 stars.
 
 # To play 
-load this link in your browser https://github.com/ponmalar22/Memory-game-master-FEND.git
+load this link in your browser http://ponmalar.freeasphost.net/Malar%20Projects/index.html
 
 # Instructions 
 1. Click on each card to reveal its symbol.
